@@ -1,9 +1,7 @@
 # COVID-19-Screening-test-ShinyApp
  ShinyAPP of COVID-19 Screening test
 
- ShinyAPP of COVID-19 Screening test
-
-This project is about developing a shiny application to visualize covid-19 data using Sankey diagrams according to several socio-economic criteria (region, gender, age)
+This project is about developing a shiny application to visualize France's covid-19 data using Sankey diagrams according to several socio-economic criteria (region, gender, age)
 
 Here are screenshots of the Shiny app :
 
@@ -26,3 +24,4 @@ Here are screenshots of the Shiny app :
 - Positive tests per age groupe
 
 ![positive_test_byage.png](positive_test_byage.png)
+

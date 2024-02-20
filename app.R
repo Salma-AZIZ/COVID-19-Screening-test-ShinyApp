@@ -10,7 +10,7 @@ library(reshape2)
 #================================= in lockdown ========================================
 #=========================================================================================
 # Import dataset 
-df_test_covid = read.csv("donnees-tests-covid19-labo-quotidien-2020-05-29-19h00_00.csv", sep = ";")
+df_test_covid = read.csv("datasets/donnees-tests-covid19-labo-quotidien-2020-05-29-19h00_00.csv", sep = ";")
 #************ Preparation des donnees ************************************
 # delete '0' from clage_covid column
 df_test_covid = df_test_covid[which(df_test_covid$clage_covid != 0),]
@@ -368,7 +368,7 @@ df_sankey_testpos_reg = df_sankey_testpos_reg %>% left_join(nodes_testpos_reg, b
 #================================= POST lockdown ========================================
 #=========================================================================================
 # import dataset
-df_pc_test_covid = read.csv("sp-pos-quot-reg-2020-09-15-19h39.csv", sep = ";")
+df_pc_test_covid = read.csv("datasets/sp-pos-quot-reg-2020-09-15-19h39.csv", sep = ";")
 #***********************************************
 #* data preparation
 #*************************************************

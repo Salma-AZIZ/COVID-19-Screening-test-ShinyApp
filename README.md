@@ -9,19 +9,19 @@ Here are screenshots of the Shiny app :
 
 - Total tests per gender per age group
 
-![total_test_gender_age](total_test_gender_age.png)
+![total_test_gender_age](App_screenshots/total_test_gender_age.png)
 
 - Positive tests per region per gender per age group
 
-![positive_tests_reg_gender_age_PL](positive_tests_reg_gender_age_PL.png)
+![positive_tests_reg_gender_age_PL](App_screenshots/positive_tests_reg_gender_age_PL.png)
 
 ###### Sankey diagram with flow identifiation
 
 - Total tests per gender
 
-![total_tests_by_gender.png](total_tests_by_gender.png)
+![total_tests_by_gender.png](App_screenshots/total_tests_by_gender.png)
 
 - Positive tests per age groupe
 
-![positive_test_byage.png](positive_test_byage.png)
+![positive_test_byage.png](App_screenshots/positive_test_byage.png)
 
